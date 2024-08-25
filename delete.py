@@ -3,7 +3,7 @@ git clone: Creates a copy of an entire remote repository on your local machine. 
 git push: Sends your changes from your local repository to a remote repository, making your updates available to others.
 
 
-git add: Prepares changes in your files to be saved. It tells Git which changes you want to include in the next commit.
+git add.: Prepares changes in your files to be saved. It tells Git which changes you want to include in the next commit.
 
 git commit: Saves the prepared changes to your local repository. It creates a snapshot of your project at that point in time.
 
